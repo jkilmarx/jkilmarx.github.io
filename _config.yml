@@ -21,6 +21,7 @@ author: Justin Kilmarx
 
 navbar-links:
   Home: "/"
+  About Me: "aboutme"
   Work: "/#selected-work"
   Focus: "/#research"
   Find Me Online:
