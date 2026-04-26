@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Justin Kilmarx
+subtitle: Senior Research Scientist at DCS Corporation
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am **Justin Kilmarx**, a cognitive neuroscientist leading research at the Air Force Research Laboratory on how noninvasive brain stimulation can accelerate training, enhance cognitive performance, and reduce the effects of stress and fatigue during complex tasks. I use biomarkers derived from fMRI, EEG, HRV, eye tracking, and pupillometry to study neural and physiological states in real-world and operational environments.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My work spans brain-computer interfaces, real-time neurofeedback, and large-scale signal analysis. I’ve developed machine learning pipelines to process high-dimensional fMRI data across individuals, built infrastructure for secure, large-scale analyses, and contributed to translational research aimed at bringing wearable neurotechnology into operational use. I’ve led cross-disciplinary teams and conducted research across academic, industry, and government settings to advance applied neuroscience and adaptive systems.
 
-What else do you need?
+I’m driven to translate neuroscience into tools that make a real difference, whether by enhancing the health and performance of our nation’s warfighters, developing assistive technologies that support rehabilitation and recovery, or creating intuitive systems that make everyday life easier.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
