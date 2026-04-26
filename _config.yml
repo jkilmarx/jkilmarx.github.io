@@ -21,9 +21,9 @@ author: Justin Kilmarx
 
 navbar-links:
   Home: "/"
-  About Me: "aboutme"
+  Research: "/#research"
   Work: "/#selected-work"
-  Focus: "/#research"
+  Publications: "/#publications"
   Find Me Online:
     - LinkedIn: "https://www.linkedin.com/in/justin-kilmarx/"
     - Google Scholar: "https://scholar.google.com/citations?user=toumszcAAAAJ&hl=en&oi=ao"
@@ -117,7 +117,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -264,7 +264,7 @@ timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 0
 
 kramdown:
   input: GFM
