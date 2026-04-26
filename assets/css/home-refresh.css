@@ -1,10 +1,10 @@
 body.home-page-refresh {
-  --accent-col: #6d28d9;
-  --accent-col-soft: rgba(109, 40, 217, 0.18);
+  --accent-col: #2563EB;
+  --accent-col-soft: rgba(37, 99, 235, 0.16);
   background:
-    radial-gradient(circle at 12% 10%, rgba(109, 40, 217, 0.2), transparent 35%),
-    radial-gradient(circle at 90% 5%, rgba(223, 130, 85, 0.2), transparent 30%),
-    linear-gradient(180deg, #f8f3eb 0%, #f5efe6 45%, #f1ebe2 100%);
+    radial-gradient(circle at 12% 10%, rgba(37, 99, 235, 0.16, transparent 35%),
+    radial-gradient(circle at 90% 5%, rgba(20, 184, 166, 0.14), transparent 30%),
+    linear-gradient(180deg, #f6f8fa 0%, #eef4f8 45%, #e8eef3 100%);
   color: #17202a;
 }
 
