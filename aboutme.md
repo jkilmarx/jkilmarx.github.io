@@ -10,224 +10,200 @@ ext-css:
   - href: "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Space+Grotesk:wght@400;500;700&display=swap"
 ---
 
-<div class="jk-hero">
+<div class="home-refresh">
+  <section class="jk-hero">
+    <p class="jk-kicker">Research Scientist • Neurotechnology • Machine Learning</p>
+    <h2>Building tools to understand and improve human performance.</h2>
+    <p>
+      I am <strong>Justin Kilmarx, Ph.D.</strong>, a research scientist working at the intersection
+      of neuroscience, machine learning, neuroimaging, and human performance. I develop experimental
+      protocols and analysis pipelines for studying learning, fatigue, neuromodulation, and cognitive
+      performance using fMRI, EEG, wearable biosignals, and behavioral data.
+    </p>
 
-<span class="jk-kicker">Research Scientist • Neurotechnology • Machine Learning</span>
+    <div class="jk-chip-row">
+      <span>Python</span>
+      <span>fMRI</span>
+      <span>EEG</span>
+      <span>Machine Learning</span>
+      <span>Neuroimaging</span>
+      <span>Biosignals</span>
+      <span>Neuromodulation</span>
+      <span>Human Performance</span>
+    </div>
 
-## Building tools to understand and improve human performance.
+    <div class="jk-link-row">
+      <a class="jk-btn jk-btn-primary" href="/assets/pdf/Justin_Kilmarx_CV.pdf">Download CV</a>
+      <a class="jk-btn jk-btn-secondary" href="https://github.com/jkilmarx">View GitHub</a>
+      <a class="jk-btn jk-btn-secondary" href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
+    </div>
+  </section>
 
-I am Justin Kilmarx, Ph.D., a research scientist working at the intersection of neuroscience, machine learning, neuroimaging, and human performance. I develop experimental protocols and analysis pipelines for studying learning, fatigue, neuromodulation, and cognitive performance using fMRI, EEG, wearable biosignals, and behavioral data.
+  <section class="jk-grid">
+    <article class="jk-card">
+      <h3>Current Role</h3>
+      <p>Senior Research Scientist supporting neuroimaging, neuromodulation, and human performance research.</p>
+    </article>
 
-<div class="jk-chip-row">
-<span>Python</span>
-<span>fMRI</span>
-<span>EEG</span>
-<span>Machine Learning</span>
-<span>Neuroimaging</span>
-<span>Biosignals</span>
-<span>Neuromodulation</span>
-<span>Human Performance</span>
-</div>
+    <article class="jk-card">
+      <h3>Core Focus</h3>
+      <p>Multimodal brain and body signals for learning, fatigue, attention, and decision-making.</p>
+    </article>
 
-<div class="jk-link-row">
-<a class="jk-btn jk-btn-primary" href="/assets/pdf/Justin_Kilmarx_CV.pdf">Download CV</a>
-<a class="jk-btn jk-btn-secondary" href="https://github.com/jkilmarx">View GitHub</a>
-<a class="jk-btn jk-btn-secondary" href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
-</div>
+    <article class="jk-card">
+      <h3>Training</h3>
+      <p>Ph.D. in Biomedical Engineering with expertise in neuroimaging, brain-computer interfaces, and machine learning.</p>
+    </article>
+  </section>
 
-</div>
+  <section id="about" class="jk-section">
+    <h2>Where I Am Today</h2>
+    <p>
+      My work focuses on translating complex neurophysiological and behavioral data into interpretable
+      measures of human performance. I design and analyze studies involving task fMRI, resting-state fMRI,
+      EEG, eye tracking, pupillometry, cardiovascular signals, wearable sensors, and behavioral task data.
+    </p>
+    <ul class="jk-list">
+      <li>Develop reproducible pipelines for neuroimaging, biosignal, and behavioral datasets.</li>
+      <li>Design human-subjects research protocols for neuromodulation, learning, sleep, and fatigue.</li>
+      <li>Apply machine learning and statistical modeling to multimodal physiological data.</li>
+      <li>Communicate technical findings through papers, grants, reports, and visual summaries.</li>
+    </ul>
+  </section>
 
-<div class="jk-grid">
+  <section id="research" class="jk-section">
+    <h2>Research Focus</h2>
+    <p>
+      I am especially interested in how brain and body signals can be used to measure and improve cognition
+      in complex environments.
+    </p>
+    <ul class="jk-list">
+      <li><strong>Neuroimaging and learning:</strong> task fMRI, resting-state connectivity, MVPA, and searchlight analysis.</li>
+      <li><strong>Neuromodulation:</strong> vagus/trigeminal nerve stimulation and low-intensity focused ultrasound.</li>
+      <li><strong>Biosignal machine learning:</strong> EEG, eye tracking, pupillometry, ECG/PPG, and wearable physiology.</li>
+      <li><strong>Human performance:</strong> visual search, fatigue, sleep/wake efficiency, attention, and decision confidence.</li>
+    </ul>
+  </section>
 
-<div class="jk-card">
-### Current Role
-Senior Research Scientist supporting neuroimaging, neuromodulation, and human performance research.
-</div>
+  <section id="timeline" class="jk-section">
+    <h2>Timeline</h2>
+    <div class="jk-timeline-panel">
+      <div class="jk-timeline">
 
-<div class="jk-card">
-### Core Focus
-Multimodal brain and body signals for learning, fatigue, attention, and decision-making.
-</div>
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">2023 – Present</p>
+            <h3>Senior Research Scientist</h3>
+            <p class="jk-timeline-org">DCS Corporation · AFRL</p>
+            <p>Lead neuroimaging, neuromodulation, and multimodal human performance research projects.</p>
+          </div>
+        </article>
 
-<div class="jk-card">
-### Training
-Ph.D. in Biomedical Engineering with expertise in neuroimaging, BCI, and machine learning.
-</div>
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">2023</p>
+            <h3>Ph.D., Biomedical Engineering</h3>
+            <p class="jk-timeline-org">Doctoral training in neuroimaging, brain-computer interfaces, and machine learning.</p>
+          </div>
+        </article>
 
-</div>
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">2021 – 2024</p>
+            <h3>EEG BCI and Neural Alignment Research</h3>
+            <p class="jk-timeline-org">Visual imagery, EEG decoding, and cross-subject neural representations.</p>
+          </div>
+        </article>
 
-<section id="about" class="jk-section">
+      </div>
+    </div>
+  </section>
 
-## Where I Am Today
+  <section id="selected-work" class="jk-section">
+    <h2>Selected Work</h2>
+    <div class="jk-project-grid">
 
-My work focuses on translating complex neurophysiological and behavioral data into interpretable measures of human performance. I design and analyze studies involving task fMRI, resting-state fMRI, EEG, eye tracking, pupillometry, cardiovascular signals, wearable sensors, and behavioral task data.
+      <article class="jk-project">
+        <h3><a href="YOUR_REPO_LINK">Real-Time Speech Processing Pipeline</a></h3>
+        <p>A modular Redis-stream pipeline for real-time speech-to-text, transcript refinement, and latency/accuracy monitoring.</p>
+      </article>
 
-- Develop reproducible pipelines for neuroimaging, biosignal, and behavioral datasets.
-- Design human-subjects research protocols for neuromodulation, learning, sleep, and fatigue.
-- Apply machine learning and statistical modeling to multimodal physiological data.
-- Communicate technical findings through papers, grants, reports, and visual summaries.
+      <article class="jk-project">
+        <h3><a href="YOUR_REPO_LINK">Visual Imagery EEG BCI</a></h3>
+        <p>EEG-based BCI work focused on decoding visual imagery and evaluating cross-subject neural alignment.</p>
+      </article>
 
-</section>
+      <article class="jk-project">
+        <h3>Neuroimaging Pipelines for Learning and Neuromodulation</h3>
+        <p>Task and resting-state fMRI workflows for studying visual search learning, stimulation effects, and network-level plasticity.</p>
+      </article>
 
-<section id="research" class="jk-section">
+      <article class="jk-project">
+        <h3>Multimodal Human Performance Modeling</h3>
+        <p>Machine learning pipelines integrating neuroimaging, physiological signals, behavioral data, and task performance.</p>
+      </article>
 
-## Research Focus
+    </div>
+  </section>
 
-I am especially interested in how brain and body signals can be used to measure and improve cognition in complex environments.
+  <section id="publications" class="jk-section">
+    <h2>Publications</h2>
+    <div class="jk-project-grid">
 
-- **Neuroimaging & learning:** task fMRI, resting-state connectivity, MVPA, and searchlight analysis.
-- **Neuromodulation:** vagus/trigeminal nerve stimulation and low-intensity focused ultrasound.
-- **Biosignal machine learning:** EEG, eye tracking, pupilometry, ECG/PPG, and wearable physiology.
-- **Human performance:** visual search, fatigue, sleep/wake efficiency, attention, and decision confidence.
+      <article class="jk-project">
+        <h3>Neural and behavioral effects of transcutaneous vagus nerve stimulation on learning and performance</h3>
+        <p><strong>Kilmarx, J.</strong>, Bretton, Z., McIntire, L.</p>
+        <p><em>In preparation. Target: Journal of Neuroscience.</em></p>
+      </article>
 
-</section>
+      <article class="jk-project">
+        <h3>Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface</h3>
+        <p><strong>Kilmarx, J.</strong>, Tashev, I., Millán, J. D. R., Sulzer, J., & Lewis-Peacock, J.</p>
+        <p><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.</em></p>
+      </article>
 
-<section id="timeline" class="jk-section">
+      <article class="jk-project">
+        <h3>Towards a common template for neural reinforcement of finger individuation</h3>
+        <p><strong>Kilmarx, J.</strong>, Oblak, E., Sulzer, J., & Lewis-Peacock, J.</p>
+        <p><em>Scientific Reports, 2021.</em></p>
+      </article>
 
-## Timeline
+      <article class="jk-project">
+        <h3>Sequence-based manipulation of robotic arm control in brain-machine interface</h3>
+        <p><strong>Kilmarx, J.</strong>, Abiri, R., Borhani, S., Jiang, Y., & Zhao, X.</p>
+        <p><em>International Journal of Intelligent Robotics and Applications, 2018.</em></p>
+      </article>
 
-<div class="jk-timeline-panel">
-<div class="jk-timeline">
+      <article class="jk-project">
+        <h3>Optimizing prediction model for a noninvasive brain-computer interface platform using channel selection, classification, and regression</h3>
+        <p>Borhani, S., <strong>Kilmarx, J.</strong>, Saffo, D., Ng, L., Abiri, R., & Zhao, X.</p>
+        <p><em>IEEE Journal of Biomedical and Health Informatics, 2019.</em></p>
+      </article>
 
-<div class="jk-timeline-item">
-<div class="jk-timeline-marker"></div>
-<div class="jk-timeline-date">2023 – Present</div>
-<div class="jk-timeline-content">
-### Senior Research Scientist
-<div class="jk-timeline-org">DCS Corporation · AFRL</div>
-Lead neuroimaging, neuromodulation, and multimodal human performance research projects.
-</div>
-</div>
+      <article class="jk-project">
+        <h3>A usability study of low-cost wireless brain-computer interface for cursor control using online linear model</h3>
+        <p>Abiri, R., Borhani, S., <strong>Kilmarx, J.</strong>, Esterwood, C., Jiang, Y., & Zhao, X.</p>
+        <p><em>IEEE Transactions on Human-Machine Systems, 2020.</em></p>
+      </article>
 
-<div class="jk-timeline-item">
-<div class="jk-timeline-marker"></div>
-<div class="jk-timeline-date">2023</div>
-<div class="jk-timeline-content">
-### Ph.D., Biomedical Engineering
-<div class="jk-timeline-org">Doctoral training in neuroimaging, BCI, and machine learning</div>
-</div>
-</div>
+      <article class="jk-project">
+        <h3>Multi-scale neural decoding and analysis</h3>
+        <p>Lu, H., Lorenc, E., Zhu, H., <strong>Kilmarx, J.</strong>, et al.</p>
+        <p><em>Journal of Neural Engineering, 2021.</em></p>
+      </article>
 
-<div class="jk-timeline-item">
-<div class="jk-timeline-marker"></div>
-<div class="jk-timeline-date">2021 – 2024</div>
-<div class="jk-timeline-content">
-### EEG BCI & Neural Alignment Research
-<div class="jk-timeline-org">Visual imagery, EEG decoding, and cross-subject neural representations</div>
-</div>
-</div>
+    </div>
+  </section>
 
-</div>
-</div>
-
-</section>
-
-<section id="selected-work" class="jk-section">
-
-## Selected Work
-
-<div class="jk-project-grid">
-
-<div class="jk-project">
-### [Real-Time Speech Processing Pipeline](YOUR_REPO_LINK)
-A modular Redis-stream pipeline for real-time speech-to-text, transcript refinement, and latency/accuracy monitoring.
-</div>
-
-<div class="jk-project">
-### [Visual Imagery EEG BCI](YOUR_REPO_LINK)
-EEG-based BCI work focused on decoding visual imagery and evaluating cross-subject neural alignment.
-</div>
-
-<div class="jk-project">
-### Neuroimaging Pipelines for Learning and Neuromodulation
-Task and resting-state fMRI workflows for studying visual search learning, stimulation effects, and network-level plasticity.
-</div>
-
-<div class="jk-project">
-### Multimodal Human Performance Modeling
-Machine learning pipelines integrating neuroimaging, physiological signals, behavioral data, and task performance.
-</div>
-
-</div>
-
-</section>
-
-<section id="publications" class="jk-section">
-## Publications
-
-<div class="jk-project-grid">
-
-<div class="jk-project">
-
-### Neural and behavioral effects of transcutaneous vagus nerve stimulation on learning and performance
-
-**Kilmarx, J.**, Bretton, Z., McIntire, L.  
-*In preparation (target: Journal of Neuroscience)*
-
-</div>
-
-<div class="jk-project">
-
-### Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface
-
-**Kilmarx, J.**, Tashev, I., Millán, J. D. R., Sulzer, J., & Lewis-Peacock, J.  
-*IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024*
-
-</div>
-
-<div class="jk-project">
-
-### Towards a common template for neural reinforcement of finger individuation
-
-**Kilmarx, J.**, Oblak, E., Sulzer, J., & Lewis-Peacock, J.  
-*Scientific Reports, 2021*
-
-</div>
-
-<div class="jk-project">
-
-### Sequence-based manipulation of robotic arm control in brain–machine interface
-
-**Kilmarx, J.**, Abiri, R., Borhani, S., Jiang, Y., & Zhao, X.  
-*International Journal of Intelligent Robotics and Applications, 2018*
-
-</div>
-
-<div class="jk-project">
-
-### Optimizing prediction model for a noninvasive brain–computer interface platform using channel selection, classification, and regression
-
-Borhani, S., **Kilmarx, J.**, Saffo, D., Ng, L., Abiri, R., & Zhao, X.  
-*IEEE Journal of Biomedical and Health Informatics, 2019*
-
-</div>
-
-<div class="jk-project">
-
-### A usability study of low-cost wireless brain–computer interface for cursor control using online linear model
-
-Abiri, R., Borhani, S., **Kilmarx, J.**, Esterwood, C., Jiang, Y., & Zhao, X.  
-*IEEE Transactions on Human-Machine Systems, 2020*
+  <section id="beyond-work" class="jk-section jk-section-last">
+    <h2>Beyond Work</h2>
+    <p>
+      When I am not working, I like to stay active and creative. I enjoy running, photography,
+      cooking, and spending time outdoors. Most of all, I value time with my wife and daughter.
+    </p>
+  </section>
 
 </div>
-
-<div class="jk-project">
-
-### Multi-scale neural decoding and analysis
-
-Lu, H., Lorenc, E., Zhu, H., **Kilmarx, J.**, et al.  
-*Journal of Neural Engineering, 2021*
-
-</div>
-
-</div>
-
-</section>
-
-<section id="beyond-work" class="jk-section jk-section-last">
-
-## Beyond Work
-
-When I’m not working, I like to stay active and creative. I enjoy running, photography, cooking, and spending time outdoors. Most of all, I value enjoying time with my wife and daughter. 
-
-</section>
