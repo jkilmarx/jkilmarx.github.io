@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justin Kilmarx, Ph.D.
-subtitle: Neuroscience • Machine Learning • Neuroimaging • Human Performance
+subtitle: Neuroscience • Machine Learning • Brain-Computer Interface
 permalink: /
 body-class: home-page-refresh
 css:
@@ -12,28 +12,24 @@ ext-css:
 
 <div class="home-refresh">
   <section class="jk-hero">
-    <p class="jk-kicker">Research Scientist • Neurotechnology • Machine Learning</p>
-    <h2>Building tools to understand and improve human performance.</h2>
+    <p class="jk-kicker">Building tools to understand and improve human performance</p>
     <p>
-      I am <strong>Justin Kilmarx, Ph.D.</strong>, a research scientist working at the intersection
-      of neuroscience, machine learning, neuroimaging, and human performance. I develop experimental
-      protocols and analysis pipelines for studying learning, fatigue, neuromodulation, and cognitive
-      performance using fMRI, EEG, wearable biosignals, and behavioral data.
+      I am <strong>Justin Kilmarx</strong>, a research scientist working at the intersection of neurotechnology and machine learning. I've spent my entire career trying to answer a simple question: <em>how can we use physilogical signals to understand what's happening in the body and turn that into something that actually helps people?</em> That idea has shaped the work I've done, from developing real-time approaches to support recovery after stroke to improving the health and resilience of our nation's warfighters. 
     </p>
 
     <div class="jk-chip-row">
-      <span>Python</span>
-      <span>fMRI</span>
-      <span>EEG</span>
-      <span>Machine Learning</span>
       <span>Neuroimaging</span>
-      <span>Biosignals</span>
+      <span>Brain-Computer Interfaces</span>
+      <span>Real-Time Neurofeedback</span>
       <span>Neuromodulation</span>
-      <span>Human Performance</span>
+      <span>Machine Learning</span>
+      <span>Signal Processing</span>
+      <span>Algorithm Development</span>
     </div>
 
     <div class="jk-link-row">
       <a class="jk-btn jk-btn-primary" href="/assets/pdf/Justin_Kilmarx_CV.pdf">Download CV</a>
+      <a class="jk-btn jk-btn-secondary" href="https://www.linkedin.com/in/justin-kilmarx/">Connect on LinkedIn</a>
       <a class="jk-btn jk-btn-secondary" href="https://github.com/jkilmarx">View GitHub</a>
       <a class="jk-btn jk-btn-secondary" href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
     </div>
