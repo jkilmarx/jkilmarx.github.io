@@ -35,11 +35,12 @@ ext-css:
     </div>
   </section>
 
-  <section class="jk-grid">
+  <section id="role" class="jk-section">
     <article class="jk-card">
       <p class="jk-kicker">Current Role</p>
       <p>Senior Research Scientist at DCS Corporation, supporting neuroimaging, neuromodulation, and human performance research within the Air Force Research Laboratory.</p>
     </article>
+  </section>
 
   <section id="about" class="jk-section">
     <p class="jk-kicker">About Me</p>
