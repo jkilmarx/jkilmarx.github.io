@@ -14,7 +14,7 @@ ext-css:
   <section class="jk-hero">
     <p class="jk-kicker">Building tools to understand and improve human performance</p>
     <p>
-      I am <strong>Justin Kilmarx</strong>, a research scientist working at the intersection of neurotechnology and machine learning. I've spent my entire career trying to answer a simple question: <em>how can we use physilogical signals to understand what's happening in the body and turn that into something that actually helps people?</em> That idea has shaped the work I've done, from developing real-time approaches to support recovery after stroke to improving the health and resilience of our nation's warfighters. 
+      I am <strong>Justin Kilmarx</strong>, a research scientist working at the intersection of neurotechnology and machine learning. I've spent my entire career trying to answer a simple question: <em>how can we use physiological signals to understand what's happening in the body and turn that into something that actually helps people?</em> That idea has shaped the work I've done, from developing real-time approaches to support recovery after stroke to improving the health and resilience of our nation's warfighters.
     </p>
 
     <div class="jk-chip-row">
@@ -48,12 +48,12 @@ ext-css:
       My work over the last decade has been devoted to developing machine learning and signal processing approaches that turn noisy, high-dimensional physiological data into something interpretable and reliable in practice. Early on, that meant working on EEG-based brain-computer interfaces to make control more intuitive and accessible, including work with Microsoft Research. I’ve also worked on fMRI-based neurofeedback approaches aimed at supporting recovery of movement after stroke. More recently, my focus has shifted toward evaluating and building systems that use neuromodulation, neuroimaging, and other physiological signals to improve learning, sleep, and recovery in real-world settings. Across all of this, the common thread has been trying to bridge the gap between complex signals and something that can actually be used to help people.
     </p>
     <ul class="jk-list">
-      <li><strong>Pysiological signals:</strong> fMRI, EEG, EOG, EMG, ECG, eye tracking, pupillometry, wearable sensing</li>
-      <li><strong>Machine Learning:</strong> supervised/unsupervised learning, deep learning (LSTM, CNN, MLP), representation learning, multivariate patern analysis, model evaluation/validation, cross-subject generalization</li>
+      <li><strong>Physiological signals:</strong> fMRI, EEG, EOG, EMG, ECG, eye tracking, pupillometry, wearable sensing</li>
+      <li><strong>Machine Learning:</strong> supervised/unsupervised learning, deep learning (LSTM, CNN, MLP), representation learning, multivariate pattern analysis, model evaluation/validation, cross-subject generalization</li>
       <li><strong>Signal Processing:</strong> physiological time-series analysis, multimodal sensor fusion, feature extraction, filter design, dimensionality reduction (ICA/PCA), spectral analysis (STFT, wavelets), real-time signal processing, low latency decoding</li>
       <li><strong>Data Engineering and Systems:</strong> end-to-end data pipelines, API-based data ingestion, large-scale dataset handling, quality control, distributed computing (HPC, SLURM, DASK), Docker/Singularity, version control (git)</li>
       <li><strong>Programming:</strong> Python (NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch), MATLAB, C/C++, JavaScript, R, Bash</li>
-      <li><strong>Human Subjects Research:</strong> Experimental design, grant writing, IRB protocol development, statistical analysis plans, logitudinal studies, behavioral analysis, real-world testing, hardware/software integration</li>
+      <li><strong>Human Subjects Research:</strong> Experimental design, grant writing, IRB protocol development, statistical analysis plans, longitudinal studies, behavioral analysis, real-world testing, hardware/software integration</li>
     </ul>
   </section>
 
@@ -75,7 +75,7 @@ ext-css:
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">July 2018 - August 2023</p>
+            <p class="jk-timeline-date">July 2018 – August 2023</p>
             <h3>Graduate Research Assistant</h3>
             <p class="jk-timeline-org">The University of Texas at Austin</p>
             <p>Dissertation: "Decoding mental representations for neurofeedback in motor and imagery tasks"</p>
@@ -85,7 +85,7 @@ ext-css:
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">May - August 2021</p>
+            <p class="jk-timeline-date">May 2021 – August 2021</p>
             <h3>Research Intern</h3>
             <p class="jk-timeline-org">Microsoft</p>
             <p>Developing a real-time EEG BCI using visual imagery.</p>
@@ -95,7 +95,7 @@ ext-css:
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">May - September 2022</p>
+            <p class="jk-timeline-date">May 2022 – September 2022</p>
             <h3>Research Intern</h3>
             <p class="jk-timeline-org">Microsoft</p>
             <p>Evaluating modeling and interaction strategies to improve visual imagery EEG BCIs</p>
@@ -105,9 +105,9 @@ ext-css:
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">June - August 2017</p>
+            <p class="jk-timeline-date">June 2017 – August 2017</p>
             <h3>Research Intern</h3>
-            <p class="jk-timeline-org">Joint Institue for Computational Sciences at Oak Ridge National Lab and The University of Tennessee</p>
+            <p class="jk-timeline-org">Joint Institute for Computational Sciences at Oak Ridge National Lab and The University of Tennessee</p>
             <p>Evaluate advanced machine learning and signal processing methods to optimize motor imagery EEG prediction.</p>
           </div>
         </article>
@@ -115,10 +115,10 @@ ext-css:
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">November 2015- May 2018</p>
+            <p class="jk-timeline-date">November 2015 – May 2018</p>
             <h3>Undergraduate Research Assistant</h3>
             <p class="jk-timeline-org">The University of Tennessee, Knoxville</p>
-            <p>Developing real-time EEG BCIs using motor imagery-based control of a computor cursor, robotic arm, quadcopter drone, and RC car.</p>
+            <p>Developing real-time EEG BCIs using motor imagery-based control of a computer cursor, robotic arm, quadcopter drone, and RC car.</p>
           </div>
         </article>
         
