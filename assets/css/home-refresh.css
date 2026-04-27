@@ -475,3 +475,7 @@ body.home-page-refresh .intro-header .page-heading hr.small {
     bottom: -0.9rem;
   }
 }
+
+body.home-page-refresh .container {
+  max-width: 1200px;
+}
