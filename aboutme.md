@@ -37,83 +37,90 @@ ext-css:
 
   <section class="jk-grid">
     <article class="jk-card">
-      <h3>Current Role</h3>
-      <p>Senior Research Scientist supporting neuroimaging, neuromodulation, and human performance research.</p>
+      <p class="jk-kicker">Current Role</p>
+      <p>Senior Research Scientist at DCS Corporation, supporting neuroimaging, neuromodulation, and human performance research within the Air Force Research Laboratory.</p>
     </article>
-
-    <article class="jk-card">
-      <h3>Core Focus</h3>
-      <p>Multimodal brain and body signals for learning, fatigue, attention, and decision-making.</p>
-    </article>
-
-    <article class="jk-card">
-      <h3>Training</h3>
-      <p>Ph.D. in Biomedical Engineering with expertise in neuroimaging, brain-computer interfaces, and machine learning.</p>
-    </article>
-  </section>
 
   <section id="about" class="jk-section">
-    <h2>Where I Am Today</h2>
+    <p class="jk-kicker">About Me</p>
     <p>
-      My work focuses on translating complex neurophysiological and behavioral data into interpretable
-      measures of human performance. I design and analyze studies involving task fMRI, resting-state fMRI,
-      EEG, eye tracking, pupillometry, cardiovascular signals, wearable sensors, and behavioral task data.
+      My work over the last decade has been devoted to developing machine learning and signal processing approaches that turn noisy, high-dimensional physiological data into something interpretable and reliable in practice. Early on, that meant working on EEG-based brain-computer interfaces to make control more intuitive and accessible, including work with Microsoft Research. I’ve also worked on fMRI-based neurofeedback approaches aimed at supporting recovery of movement after stroke. More recently, my focus has shifted toward evaluating and building systems that use neuromodulation, neuroimaging, and other physiological signals to improve learning, sleep, and recovery in real-world settings. Across all of this, the common thread has been trying to bridge the gap between complex signals and something that can actually be used to help people.
     </p>
     <ul class="jk-list">
-      <li>Develop reproducible pipelines for neuroimaging, biosignal, and behavioral datasets.</li>
-      <li>Design human-subjects research protocols for neuromodulation, learning, sleep, and fatigue.</li>
-      <li>Apply machine learning and statistical modeling to multimodal physiological data.</li>
-      <li>Communicate technical findings through papers, grants, reports, and visual summaries.</li>
-    </ul>
-  </section>
-
-  <section id="research" class="jk-section">
-    <h2>Research Focus</h2>
-    <p>
-      I am especially interested in how brain and body signals can be used to measure and improve cognition
-      in complex environments.
-    </p>
-    <ul class="jk-list">
-      <li><strong>Neuroimaging and learning:</strong> task fMRI, resting-state connectivity, MVPA, and searchlight analysis.</li>
-      <li><strong>Neuromodulation:</strong> vagus/trigeminal nerve stimulation and low-intensity focused ultrasound.</li>
-      <li><strong>Biosignal machine learning:</strong> EEG, eye tracking, pupillometry, ECG/PPG, and wearable physiology.</li>
-      <li><strong>Human performance:</strong> visual search, fatigue, sleep/wake efficiency, attention, and decision confidence.</li>
+      <li><strong>Pysiological signals:</strong> fMRI, EEG, EOG, EMG, ECG, eye tracking, pupillometry, wearable sensing</li>
+      <li><strong>Machine Learning:</strong> supervised/unsupervised learning, deep learning (LSTM, CNN, MLP), representation learning, multivariate patern analysis, model evaluation/validation, cross-subject generalization</li>
+      <li><strong>Signal Processing:</strong> physiological time-series analysis, multimodal sensor fusion, feature extraction, filter design, dimensionality reduction (ICA/PCA), spectral analysis (STFT, wavelets), real-time signal processing, low latency decoding</li>
+      <li><strong>Data Engineering and Systems:</strong> end-to-end data pipelines, API-based data ingestion, large-scale dataset handling, quality control, distributed computing (HPC, SLURM, DASK), Docker/Singularity, version control (git)</li>
+      <li><strong>Programming:</strong> Python (NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch), MATLAB, C/C++, JavaScript, R, Bash</li>
+      <li><strong>Human Subjects Research:</strong> Experimental design, grant writing, IRB protocol development, statistical analysis plans, logitudinal studies, behavioral analysis, real-world testing, hardware/software integration</li>
     </ul>
   </section>
 
   <section id="timeline" class="jk-section">
-    <h2>Timeline</h2>
+    <p class="jk-kicker">Timeline</p>
     <div class="jk-timeline-panel">
       <div class="jk-timeline">
 
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">2023 – Present</p>
+            <p class="jk-timeline-date">May 2023 – Present</p>
             <h3>Senior Research Scientist</h3>
-            <p class="jk-timeline-org">DCS Corporation · AFRL</p>
-            <p>Lead neuroimaging, neuromodulation, and multimodal human performance research projects.</p>
+            <p class="jk-timeline-org">DCS Corporation · Air Force Research Laboratory</p>
+            <p>Leading neuroimaging, neuromodulation, and multimodal human performance research projects.</p>
           </div>
         </article>
 
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">2023</p>
-            <h3>Ph.D., Biomedical Engineering</h3>
-            <p class="jk-timeline-org">Doctoral training in neuroimaging, brain-computer interfaces, and machine learning.</p>
+            <p class="jk-timeline-date">July 2018 - August 2023</p>
+            <h3>Graduate Research Assistant</h3>
+            <p class="jk-timeline-org">The University of Texas at Austin</p>
+            <p>Dissertation: "Decoding mental representations for neurofeedback in motor and imagery tasks"</p>
           </div>
         </article>
 
         <article class="jk-timeline-item">
           <div class="jk-timeline-marker"></div>
           <div class="jk-timeline-content">
-            <p class="jk-timeline-date">2021 – 2024</p>
-            <h3>EEG BCI and Neural Alignment Research</h3>
-            <p class="jk-timeline-org">Visual imagery, EEG decoding, and cross-subject neural representations.</p>
+            <p class="jk-timeline-date">May - August 2021</p>
+            <h3>Research Intern</h3>
+            <p class="jk-timeline-org">Microsoft</p>
+            <p>Developing a real-time EEG BCI using visual imagery.</p>
           </div>
         </article>
 
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">May - September 2022</p>
+            <h3>Research Intern</h3>
+            <p class="jk-timeline-org">Microsoft</p>
+            <p>Evaluating modeling and interaction strategies to improve visual imagery EEG BCIs</p>
+          </div>
+        </article>
+
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">June - August 2017</p>
+            <h3>Research Intern</h3>
+            <p class="jk-timeline-org">Joint Institue for Computational Sciences at Oak Ridge National Lab and The University of Tennessee</p>
+            <p>Evaluate advanced machine learning and signal processing methods to optimize motor imagery EEG prediction.</p>
+          </div>
+        </article>
+
+        <article class="jk-timeline-item">
+          <div class="jk-timeline-marker"></div>
+          <div class="jk-timeline-content">
+            <p class="jk-timeline-date">November 2015- May 2018</p>
+            <h3>Undergraduate Research Assistant</h3>
+            <p class="jk-timeline-org">The University of Tennessee, Knoxville</p>
+            <p>Developing real-time EEG BCIs using motor imagery-based control of a computor cursor, robotic arm, quadcopter drone, and RC car.</p>
+          </div>
+        </article>
+        
       </div>
     </div>
   </section>
