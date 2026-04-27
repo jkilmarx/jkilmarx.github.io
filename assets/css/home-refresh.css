@@ -222,14 +222,14 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .jk-btn-primary {
   color: #ffffff;
-  background: var(--accent-col);
+  background: #2563eb;
   box-shadow: 0 10px 18px -12px rgba(37, 99, 235, 0.75);
 }
 
 .jk-btn-primary:hover,
 .jk-btn-primary:focus {
   color: #ffffff;
-  background: var(--accent-col-dark);
+  background: #1d4ed8;
 }
 
 .jk-btn-secondary {
