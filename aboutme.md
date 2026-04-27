@@ -37,13 +37,13 @@ ext-css:
 
   <section id="role" class="jk-section">
     <article class="jk-card">
-      <p class="jk-kicker">Current Role</p>
+      <h2>Current Role</h2>
       <p>Senior Research Scientist at DCS Corporation, supporting neuroimaging, neuromodulation, and human performance research within the Air Force Research Laboratory.</p>
     </article>
   </section>
 
   <section id="about" class="jk-section">
-    <p class="jk-kicker">About Me</p>
+    <h2>About Me</h2>
     <p>
       My work over the last decade has been devoted to developing machine learning and signal processing approaches that turn noisy, high-dimensional physiological data into something interpretable and reliable in practice. Early on, that meant working on EEG-based brain-computer interfaces to make control more intuitive and accessible, including work with Microsoft Research. I’ve also worked on fMRI-based neurofeedback approaches aimed at supporting recovery of movement after stroke. More recently, my focus has shifted toward evaluating and building systems that use neuromodulation, neuroimaging, and other physiological signals to improve learning, sleep, and recovery in real-world settings. Across all of this, the common thread has been trying to bridge the gap between complex signals and something that can actually be used to help people.
     </p>
@@ -58,7 +58,7 @@ ext-css:
   </section>
 
   <section id="timeline" class="jk-section">
-    <p class="jk-kicker">Timeline</p>
+    <h2>Timeline</h2>
     <div class="jk-timeline-panel">
       <div class="jk-timeline">
 
