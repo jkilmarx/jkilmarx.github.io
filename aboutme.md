@@ -136,7 +136,7 @@ ext-css:
       </article>
 
       <article class="jk-project">
-        <h3><a href="[https://github.com/jkilmarx/real-time-eeg-bci](https://github.com/jkilmarx/fMRI-hyperalignment)">fMRI Hyperalignment</a></h3>
+        <h3><a href="https://github.com/jkilmarx/real-time-eeg-bci">fMRI Hyperalignment</a></h3>
         <p>Processing pipeline for conducting cross-subject functional alignment of fMRI data.</p>
       </article>
 
@@ -190,7 +190,7 @@ ext-css:
       </article>
 
       <article class="jk-project">
-        <h3><a href"https://ieeexplore.ieee.org/abstract/document/9093862">A usability study of low-cost wireless brain-computer interface for cursor control using online linear model</a></h3>
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/9093862">A usability study of low-cost wireless brain-computer interface for cursor control using online linear model</a></h3>
         <p>Abiri, R., Borhani, S., <strong>Kilmarx, J.</strong>, Esterwood, C., Jiang, Y., & Zhao, X.</p>
         <p><em>IEEE Transactions on Human-Machine Systems, 2020.</em></p>
       </article>
