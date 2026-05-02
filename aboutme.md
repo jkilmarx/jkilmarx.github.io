@@ -131,23 +131,18 @@ ext-css:
     <div class="jk-project-grid">
 
       <article class="jk-project">
-        <h3><a href="YOUR_REPO_LINK">Real-Time Speech Processing Pipeline</a></h3>
-        <p>A modular Redis-stream pipeline for real-time speech-to-text, transcript refinement, and latency/accuracy monitoring.</p>
+        <h3><a href="https://github.com/jkilmarx/real-time-eeg-bci">Visual Imagery EEG BCI</a></h3>
+        <p>EEG-based BCI work focused on decoding visual imagery from Microsoft internship project.</p>
       </article>
 
       <article class="jk-project">
-        <h3><a href="YOUR_REPO_LINK">Visual Imagery EEG BCI</a></h3>
-        <p>EEG-based BCI work focused on decoding visual imagery and evaluating cross-subject neural alignment.</p>
+        <h3><a href="[https://github.com/jkilmarx/real-time-eeg-bci](https://github.com/jkilmarx/fMRI-hyperalignment)">fMRI Hyperalignment</a></h3>
+        <p>Processing pipeline for conducting cross-subject functional alignment of fMRI data.</p>
       </article>
 
-      <article class="jk-project">
-        <h3>Neuroimaging Pipelines for Learning and Neuromodulation</h3>
-        <p>Task and resting-state fMRI workflows for studying visual search learning, stimulation effects, and network-level plasticity.</p>
-      </article>
-
-      <article class="jk-project">
-        <h3>Multimodal Human Performance Modeling</h3>
-        <p>Machine learning pipelines integrating neuroimaging, physiological signals, behavioral data, and task performance.</p>
+        <article class="jk-project">
+        <h3><a href="https://github.com/jkilmarx/real-time-speech-pipeline">Real-Time Speech Processing Pipeline</a></h3>
+        <p>A modular Redis-stream pipeline for real-time speech-to-text processing including LLM transcript refinement and latency/accuracy monitoring.</p>
       </article>
 
     </div>
@@ -158,43 +153,50 @@ ext-css:
     <div class="jk-project-grid">
 
       <article class="jk-project">
-        <h3>Neural and behavioral effects of transcutaneous vagus nerve stimulation on learning and performance</h3>
+        <h3><a href="https://www.brainstimjrnl.com/article/S1935-861X(25)00119-6/fulltext">Neural and behavioral effects of transcutaneous vagus nerve stimulation on learning and performance</a></h3>
         <p><strong>Kilmarx, J.</strong>, Bretton, Z., McIntire, L.</p>
         <p><em>In preparation. Target: Journal of Neuroscience.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface</h3>
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/10551275">Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface</a?</h3>
         <p><strong>Kilmarx, J.</strong>, Tashev, I., Millán, J. D. R., Sulzer, J., & Lewis-Peacock, J.</p>
         <p><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>Towards a common template for neural reinforcement of finger individuation</h3>
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/9734919">Investigating Visual Imagery as a BCI Control Strategy: A Pilot Study</a?</h3>
+        Hannes Gamper, Dimitra Emmanouilidou, David Johnston, Ed Cutrell, Andrew Wilson, Ivan Tashev
+        <p><strong>Kilmarx, J.</strong>, Gamper, H., Emmanouilidou, D., Johnston, D., Cutrell, E., Tashev, I.</p>
+        <p><em>10th International Winter Conference on Brain-Computer Interface (BCI), 2022.</em></p>
+      </article>
+
+      <article class="jk-project">
+        <h3><a href="https://www.nature.com/articles/s41598-020-80166-8">Towards a common template for neural reinforcement of finger individuation</a></h3>
         <p><strong>Kilmarx, J.</strong>, Oblak, E., Sulzer, J., & Lewis-Peacock, J.</p>
         <p><em>Scientific Reports, 2021.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>Sequence-based manipulation of robotic arm control in brain-machine interface</h3>
+        <h3><a href="https://link.springer.com/article/10.1007/s41315-018-0049-7">Sequence-based manipulation of robotic arm control in brain-machine interface</a></h3>
         <p><strong>Kilmarx, J.</strong>, Abiri, R., Borhani, S., Jiang, Y., & Zhao, X.</p>
         <p><em>International Journal of Intelligent Robotics and Applications, 2018.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>Optimizing prediction model for a noninvasive brain-computer interface platform using channel selection, classification, and regression</h3>
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/8610180">Optimizing prediction model for a noninvasive brain-computer interface platform using channel selection, classification, and regression</a></h3>
         <p>Borhani, S., <strong>Kilmarx, J.</strong>, Saffo, D., Ng, L., Abiri, R., & Zhao, X.</p>
         <p><em>IEEE Journal of Biomedical and Health Informatics, 2019.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>A usability study of low-cost wireless brain-computer interface for cursor control using online linear model</h3>
+        <h3><a href"https://ieeexplore.ieee.org/abstract/document/9093862">A usability study of low-cost wireless brain-computer interface for cursor control using online linear model</a></h3>
         <p>Abiri, R., Borhani, S., <strong>Kilmarx, J.</strong>, Esterwood, C., Jiang, Y., & Zhao, X.</p>
         <p><em>IEEE Transactions on Human-Machine Systems, 2020.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3>Multi-scale neural decoding and analysis</h3>
+        <h3><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac160f/meta">Multi-scale neural decoding and analysis</a></h3>
         <p>Lu, H., Lorenc, E., Zhu, H., <strong>Kilmarx, J.</strong>, et al.</p>
         <p><em>Journal of Neural Engineering, 2021.</em></p>
       </article>
