@@ -21,14 +21,11 @@ author: Justin Kilmarx
 
 navbar-links:
   Home: "/"
-  Research: "/#research"
-  Work: "/#selected-work"
-  Publications: "/#publications"
   Find Me Online:
     - LinkedIn: "https://www.linkedin.com/in/justin-kilmarx/"
     - Google Scholar: "https://scholar.google.com/citations?user=toumszcAAAAJ&hl=en&oi=ao"
     - Github: "https://github.com/jkilmarx"
-  CV: "/assets/pdf/Justin_Kilmarx_CV.pdf"
+  Download CV: "/assets/pdf/Justin_Kilmarx_CV.pdf"
 
 ################
 # --- Logo --- #
