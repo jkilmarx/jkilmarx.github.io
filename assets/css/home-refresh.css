@@ -9,9 +9,9 @@ body.home-page-refresh {
   --card-bg: rgba(255, 255, 255, 0.78);
 
   background:
-    radial-gradient(circle at 12% 10%, rgba(37, 99, 235, 0.16), transparent 35%),
-    radial-gradient(circle at 90% 5%, rgba(20, 184, 166, 0.14), transparent 30%),
-    linear-gradient(180deg, #f6f8fb 0%, #eef4f8 45%, #e8eef3 100%);
+    radial-gradient(circle at 20% 10%, rgba(37, 99, 235, 0.26), transparent 45%),
+    radial-gradient(circle at 85% 5%, rgba(20, 184, 166, 0.22), transparent 40%),
+    linear-gradient(180deg, #e6f0ff 0%, #dde8f5 50%, #d6e3ef 100%);
   color: var(--text-col);
 }
 
