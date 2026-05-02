@@ -480,3 +480,34 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 body.home-page-refresh .container {
   max-width: 1350px;
 }
+
+/* Hard fix for timeline markers */
+.jk-timeline {
+  position: relative;
+  padding-left: 2.6rem;
+  overflow: visible;
+}
+
+.jk-timeline::before {
+  left: 0.65rem !important;
+  z-index: 1;
+}
+
+.jk-timeline-item {
+  position: relative;
+  overflow: visible;
+}
+
+.jk-timeline-marker {
+  display: block !important;
+  position: absolute !important;
+  left: -2.4rem !important;
+  top: 0.42rem !important;
+  width: 0.9rem !important;
+  height: 0.9rem !important;
+  border-radius: 999px !important;
+  background: #2563eb !important;
+  border: 3px solid #ffffff !important;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.18) !important;
+  z-index: 10 !important;
+}
