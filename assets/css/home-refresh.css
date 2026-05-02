@@ -334,13 +334,14 @@ body.home-page-refresh .intro-header .page-heading hr.small {
 
 .jk-timeline-marker {
   position: absolute;
-  left: calc(var(--timeline-line-x) - (var(--timeline-marker-size) / 2) - var(--timeline-pad));
+  left: calc(var(--timeline-line-x) - (var(--timeline-marker-size) / 2));
   top: 0.32rem;
   width: var(--timeline-marker-size);
   height: var(--timeline-marker-size);
   border-radius: 999px;
   background: var(--accent-col);
   box-shadow: 0 0 0 4px var(--accent-col-soft);
+  z-index: 3;
 }
 
 .jk-timeline-marker-future {
