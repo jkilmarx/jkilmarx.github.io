@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justin Kilmarx, Ph.D.
-subtitle: Neuroscience • Machine Learning • Brain-Computer Interface
+subtitle: Neurotech Research Scientist
 permalink: /
 body-class: home-page-refresh
 css:
@@ -31,15 +31,8 @@ ext-css:
       <a class="jk-btn jk-btn-primary" href="/assets/pdf/Justin_Kilmarx_CV.pdf">Download CV</a>
       <a class="jk-btn jk-btn-secondary" href="https://www.linkedin.com/in/justin-kilmarx/">Connect on LinkedIn</a>
       <a class="jk-btn jk-btn-secondary" href="https://github.com/jkilmarx">View GitHub</a>
-      <a class="jk-btn jk-btn-secondary" href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
+      <a class="jk-btn jk-btn-secondary" href="https://scholar.google.com/citations?user=toumszcAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </div>
-  </section>
-
-  <section id="role" class="jk-section">
-    <article class="jk-card">
-      <h2>Current Role</h2>
-      <p>Senior Research Scientist at DCS Corporation, supporting neuroimaging, neuromodulation, and human performance research within the Air Force Research Laboratory.</p>
-    </article>
   </section>
 
   <section id="about" class="jk-section">
@@ -58,7 +51,7 @@ ext-css:
   </section>
 
   <section id="timeline" class="jk-section">
-    <h2>Timeline</h2>
+    <h2>Research Timeline</h2>
     <div class="jk-timeline-panel">
       <div class="jk-timeline">
 
@@ -209,6 +202,21 @@ ext-css:
       When I am not working, I like to stay active and creative. I enjoy running, photography,
       cooking, and spending time outdoors. Most of all, I value time with my wife and daughter.
     </p>
+
+    <div class="jk-photo-row">
+      <a href="/assets/img/IMG_1.jpeg" target="_blank">
+        <img src="/assets/img/IMG_1.jpeg" alt="Photography 1">
+      </a>
+      <a href="/assets/img/IMG_2.jpeg" target="_blank">
+        <img src="/assets/img/IMG_2.jpeg" alt="Photography 2">
+      </a>
+      <a href="/assets/img/IMG_3.jpeg" target="_blank">
+        <img src="/assets/img/IMG_3.jpeg" alt="Photography 3">
+      </a>
+      <a href="/assets/img/IMG_4.jpeg" target="_blank">
+        <img src="/assets/img/IMG_4.jpeg" alt="Photography 4">
+      </a>
+    </div>
   </section>
 
 </div>
