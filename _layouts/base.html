@@ -24,7 +24,8 @@ common-js:
 <!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
 {% include head.html %}
 
-<body>
+{% assign body_class = page["body-class"] | default: page.body_class | default: layout["body-class"] | default: layout.body_class %}
+<body{% if body_class %} class="{{ body_class | escape }}"{% endif %}>
   {% include gtm_body.html %}
 
   {% include nav.html %}
