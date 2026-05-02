@@ -26,7 +26,7 @@ body.home-page-refresh .navbar-custom .navbar-brand,
 body.home-page-refresh .navbar-custom .nav-link {
   font-family: "Space Grotesk", "Open Sans", sans-serif;
   font-weight: 600;
-  color: #f8fbff;
+  color: var(--text-col);
 }
 
 body.home-page-refresh .navbar-custom .nav-link:hover,
@@ -41,12 +41,12 @@ body.home-page-refresh footer {
 }
 
 body.home-page-refresh footer p.text-muted {
-  color: #e6fffb !important;
+  color: var(--text-col);
 }
 
 body.home-page-refresh footer a,
 body.home-page-refresh footer .footer-links a {
-  color: #f7fffe;
+  color: var(--text-col);
 }
 
 body.home-page-refresh footer a:hover,
