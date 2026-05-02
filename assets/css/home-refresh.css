@@ -16,7 +16,8 @@ background:
 }
 
 body.home-page-refresh .navbar-custom {
-  background-color: var(--accent-col);
+  background:
+    linear-gradient(180deg, #f8fbff 0%, #eef4fa 100%) !important;
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--accent-col-dark);
 }
@@ -34,8 +35,9 @@ body.home-page-refresh .navbar-custom .navbar-brand:hover {
 }
 
 body.home-page-refresh footer {
-  background-color: var(--accent-col-2);
-  border-top-color: var(--accent-col-2);
+  background:
+    linear-gradient(180deg, #eef4fa 0%, #e6f0f5 100%) !important;
+  border-top: 1px solid rgba(23, 32, 42, 0.08);
 }
 
 body.home-page-refresh footer p.text-muted {
