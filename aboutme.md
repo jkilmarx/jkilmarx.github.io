@@ -159,14 +159,13 @@ ext-css:
       </article>
 
       <article class="jk-project">
-        <h3><a href="https://ieeexplore.ieee.org/abstract/document/10551275">Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface</a?</h3>
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/10551275">Evaluating the feasibility of visual imagery for an EEG-based brain-computer interface</a></h3>
         <p><strong>Kilmarx, J.</strong>, Tashev, I., Millán, J. D. R., Sulzer, J., & Lewis-Peacock, J.</p>
         <p><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.</em></p>
       </article>
 
       <article class="jk-project">
-        <h3><a href="https://ieeexplore.ieee.org/abstract/document/9734919">Investigating Visual Imagery as a BCI Control Strategy: A Pilot Study</a?</h3>
-        Hannes Gamper, Dimitra Emmanouilidou, David Johnston, Ed Cutrell, Andrew Wilson, Ivan Tashev
+        <h3><a href="https://ieeexplore.ieee.org/abstract/document/9734919">Investigating Visual Imagery as a BCI Control Strategy: A Pilot Study</a></h3>
         <p><strong>Kilmarx, J.</strong>, Gamper, H., Emmanouilidou, D., Johnston, D., Cutrell, E., Tashev, I.</p>
         <p><em>10th International Winter Conference on Brain-Computer Interface (BCI), 2022.</em></p>
       </article>
