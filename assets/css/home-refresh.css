@@ -9,8 +9,8 @@ body.home-page-refresh {
   --card-bg: rgba(255, 255, 255, 0.78);
 
   background:
-    radial-gradient(circle at 20% 10%, rgba(37, 99, 235, 0.26), transparent 45%),
-    radial-gradient(circle at 85% 5%, rgba(20, 184, 166, 0.22), transparent 40%),
+    radial-gradient(circle at 20% 10%, rgba(37, 99, 235, 0.16), transparent 45%),
+    radial-gradient(circle at 85% 5%, rgba(20, 184, 166, 0.12), transparent 50%),
     linear-gradient(180deg, var(--accent-col) 0%, #1f8bbf 52%, var(--accent-col-2) 100%);
   color: var(--text-col);
 }
