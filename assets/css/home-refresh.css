@@ -601,6 +601,11 @@ body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdow
   border-color: rgba(23, 32, 42, 0.12) !important;
 }
 
+body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:focus {
+  color: var(--accent-col-dark) !important;
+}
+
 /* 4) Footer social icon hover -> same dark blue */
 body.home-page-refresh footer a:hover,
 body.home-page-refresh footer a:focus,
@@ -639,6 +644,11 @@ body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdow
 body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   color: var(--text-col) !important;
   border-color: rgba(23, 32, 42, 0.12) !important;
+}
+
+body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+body.home-page-refresh .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:focus {
+  color: var(--accent-col-dark) !important;
 }
 
 /* 4) Footer social icon hover -> same dark blue */
